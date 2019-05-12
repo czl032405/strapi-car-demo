@@ -1,0 +1,30 @@
+{
+  "connection": "default",
+  "collectionName": "recommendations",
+  "info": {
+    "name": "recommendation",
+    "description": "3.自行定义每个推荐id对应的汽车要求，例如某个推荐id要求品牌为a & b & c, 价钱在c和d之间，年份在e和f之间，等等"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "comment": ""
+  },
+  "attributes": {
+    "makes": {
+      "type": "string"
+    },
+    "price_min": {
+      "type": "integer"
+    },
+    "price_max": {
+      "type": "integer"
+    },
+    "year_min": {
+      "type": "integer"
+    },
+    "year_max": {
+      "type": "integer"
+    }
+  }
+}

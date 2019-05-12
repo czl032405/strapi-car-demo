@@ -1,0 +1,97 @@
+[
+  {
+    "area": "bayArea",
+    "availability": "available",
+    "color": "silver",
+    "images": [
+    "https://img.lendingcar.com/640x480/inventories/3whjCQsjtJCgsNfxfecZi3F2sxtXCdcPHO/aaee916452b3dfd1fac5ae6b060b8197.jpg"
+    ],
+    "make": "bmw",
+    "mileage": 19269,
+    "model": "3 Series",
+    "mpgCity": 22,
+    "mpgHighway": 33,
+    "numberOfDoors": 4,
+    "occupancy": null,
+    "price": 30000,
+    "size": "midsize",
+    "year": 2016,
+    "id": "0001"
+  },
+  {
+    "area": "bayArea",
+    "availability": "available",
+    "color": "black",
+    "images": [
+    "https://img.lendingcar.com/640x480/inventories/nZcyfjCvCASZhnfKiWSNt8HeIoCjc4C8fk/2f29b87810da481a65e0b837d05f1534.jpg"
+    ],
+    "make": "jeep",
+    "mileage": 64272,
+    "model": "Wrangler",
+    "mpgCity": 17,
+    "mpgHighway": 21,
+    "numberOfDoors": 2,
+    "occupancy": 4,
+    "price": 29999,
+    "size": "compact",
+    "year": 2015,
+    "id": "0002"
+  },
+  {
+    "area": "bayArea",
+    "availability": "available",
+    "color": "silver",
+    "images": [
+    "https://img.lendingcar.com/640x480/inventories/8XsXtDcBCjHefgIbU5c8ikcbHVHoCJt9HL/43036fe8af26436df1ac4174ade72a2c.jpg"
+    ],
+    "make": "toyota",
+    "mileage": 54176,
+    "model": "Tacoma",
+    "mpgCity": 19,
+    "mpgHighway": 24,
+    "numberOfDoors": 4,
+    "occupancy": null,
+    "price": 29999,
+    "size": "compact",
+    "year": 2016,
+    "id": "0003"
+  },
+  {
+    "area": "bayArea",
+    "availability": "available",
+    "color": "white",
+    "images": [
+    "https://img.lendingcar.com/640x480/inventories/2JfGtbt8u9FKf5tJcNtGiNSJU7HVH8HbsE/e62acd6f98e6a20889a61324240abc98.jpg"
+    ],
+    "make": "toyota",
+    "mileage": 26503,
+    "model": "Tundra",
+    "mpgCity": 13,
+    "mpgHighway": 18,
+    "numberOfDoors": 4,
+    "occupancy": 6,
+    "price": 29999,
+    "size": "large",
+    "year": 2016,
+    "id": "0004"
+  },
+  {
+    "area": "bayArea",
+    "availability": "notAvailable",
+    "color": "white",
+    "images": [
+    "https://img.lendingcar.com/640x480/inventories/QwtKIQiQC1tZsEtvFwCLuWcMHRHGsauVfW/f16b7133380f96308bc756e5f265991a.jpg"
+    ],
+    "make": "audi",
+    "mileage": 18386,
+    "model": "TT",
+    "mpgCity": 22,
+    "mpgHighway": 31,
+    "numberOfDoors": 2,
+    "occupancy": 4,
+    "price": 29998,
+    "size": "compact",
+    "year": 2014,
+    "id": "0005"
+  }
+]
