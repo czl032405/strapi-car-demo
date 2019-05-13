@@ -75,7 +75,7 @@ module.exports = {
    * 4.一个public API，返回某个推荐id的汽车数据
    */
   getCars: async (ctx, next) => {
-    const { id } = ctx.query;
+    const { id } = ctx.params;
     let recommendation = await strapi.services.recommendation.fetch({ id });
     recommendation = recommendation.toJSON();
 

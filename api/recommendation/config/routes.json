@@ -2,7 +2,7 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/recommendations/cars",
+      "path": "/recommendations/:id/cars",
       "handler": "Recommendation.getCars",
       "config": {
         "policies": []
